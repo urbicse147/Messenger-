@@ -1,0 +1,18 @@
+*{
+    margin : 0;
+    padding: 0;
+
+}
+.contain .massage{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.contain .massage .main{
+  text-align: center;
+}
+.contain .massage .main img{
+    border-radius: 50%;
+}
